@@ -14,8 +14,7 @@ embeddings = HuggingFaceEmbeddings()
 
 db = FAISS.from_documents(
     documents=documents,
-    embedding=embeddings,
-    
+    embedding=embeddings
 )
 
 retriever = db.as_retriever(search_kwargs={"k":2})
