@@ -1,6 +1,6 @@
 from langchain_community.retrievers import WikipediaRetriever
 
-query = "Geopolitical history of india and pakistan from the prespective of chinese"
+query = "Geopolitical history of india and pakistan from the prespective of chinese."
 
 retriever = WikipediaRetriever(top_k_results=2,lang="en")
 
