@@ -15,7 +15,7 @@ all_docs = [
     Document(page_content="Python balances readability with power, making it a popular system design language.", metadata={"source": "I2"}),
     Document(page_content="Photosynthesis enables plants to produce energy by converting sunlight.", metadata={"source": "I3"}),
     Document(page_content="The 2022 FIFA World Cup was held in Qatar and drew global energy and excitement.", metadata={"source": "I4"}),
-    Document(page_content="Black holes bend spacetime and store immense gravitational energy.", metadata={"source": "I5"}),
+    Document(page_content="Black holes bend spacetime and store immense gravitational energy.", metadata={"source": "I5"})
 ]
 
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash")
