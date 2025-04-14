@@ -4,6 +4,7 @@ This repository contains implementations of various document retrieval technique
 These retrievers were built as part of my learning journey in information retrieval and RAG (Retrieval-Augmented Generation) systems.
 
 *🔍 Included Files*
+
 mmr.py
 
 Implements Maximal Marginal Relevance (MMR) to re-rank search results by balancing relevance and diversity.
