@@ -14,6 +14,7 @@ multi_ret.py
 Implements multi-vector retrieval, enabling retrieval of multiple relevant document chunks for a given query using hybrid or ensemble methods.
 
 vector_ret.py
+
 Implements vector-based retrieval using dense embeddings and vector similarity search with tools like FAISS or ChromaDB.
 
 wiki.py
