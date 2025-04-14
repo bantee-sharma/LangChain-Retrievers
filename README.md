@@ -10,6 +10,7 @@ mmr.py
 Implements Maximal Marginal Relevance (MMR) to re-rank search results by balancing relevance and diversity.
 
 multi_ret.py
+
 Implements multi-vector retrieval, enabling retrieval of multiple relevant document chunks for a given query using hybrid or ensemble methods.
 
 vector_ret.py
