@@ -5,6 +5,7 @@ These retrievers were built as part of my learning journey in information retrie
 
 *🔍 Included Files*
 mmr.py
+
 Implements Maximal Marginal Relevance (MMR) to re-rank search results by balancing relevance and diversity.
 
 multi_ret.py
