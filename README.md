@@ -1,6 +1,7 @@
 ## 📚 LangChain-Retrievers
 
-This repository contains implementations of various document retrieval techniques using LangChain and vector databases. These retrievers were built as part of my learning journey in information retrieval and RAG (Retrieval-Augmented Generation) systems.
+This repository contains implementations of various document retrieval techniques using LangChain and vector databases. 
+These retrievers were built as part of my learning journey in information retrieval and RAG (Retrieval-Augmented Generation) systems.
 
 🔍 Included Files
 mmr.py
