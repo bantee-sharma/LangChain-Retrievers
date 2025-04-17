@@ -17,7 +17,7 @@ Implements multi-vector retrieval, enabling retrieval of multiple relevant docum
 
 Implements vector-based retrieval using dense embeddings and vector similarity search with tools like FAISS or ChromaDB.
 
-wiki.py
+**wiki.py**
 Prepares Wikipedia data by downloading, chunking, and embedding it for retrieval tasks.
 
 requirements.txt
