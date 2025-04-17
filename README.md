@@ -13,7 +13,7 @@ Implements Maximal Marginal Relevance (MMR) to re-rank search results by balanci
 
 Implements multi-vector retrieval, enabling retrieval of multiple relevant document chunks for a given query using hybrid or ensemble methods.
 
-vector_ret.py
+**vector_ret.py**
 
 Implements vector-based retrieval using dense embeddings and vector similarity search with tools like FAISS or ChromaDB.
 
