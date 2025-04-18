@@ -21,4 +21,5 @@ Implements vector-based retrieval using dense embeddings and vector similarity s
 Prepares Wikipedia data by downloading, chunking, and embedding it for retrieval tasks.
 
 **requirements.txt**
+
 Lists all required Python packages for setting up and running the retriever pipelines.
