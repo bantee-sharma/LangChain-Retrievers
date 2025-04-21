@@ -15,6 +15,7 @@ Implements multi-vector retrieval, enabling retrieval of multiple relevant docum
 
 **vector_ret.py**
 
+
 Implements vector-based retrieval using dense embeddings and vector similarity search with tools like FAISS or ChromaDB.
 
 **wiki.py**
